@@ -12,3 +12,4 @@
 - 2025-03-25T11:03:02: Fix fonts
 - 2025-03-31T13:03:02: Unit tests for mood logic
 - 2025-04-06T15:03:02: Improve styling
+- 2025-04-12T17:03:02: Dark mode support
