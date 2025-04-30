@@ -15,3 +15,4 @@
 - 2025-04-12T17:03:02: Dark mode support
 - 2025-04-18T19:03:02: Polish UI
 - 2025-04-24T21:03:02: Optimize images
+- 2025-04-30T23:03:02: Setup SQLite
