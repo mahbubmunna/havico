@@ -20,3 +20,4 @@
 - 2025-05-13T03:03:02: Polish UI
 - 2025-05-19T05:03:02: Cleanup code
 - 2025-05-25T07:03:02: Refactor insight engine
+- 2025-05-31T09:03:02: Fix layout issues
