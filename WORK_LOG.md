@@ -22,3 +22,4 @@
 - 2025-05-25T07:03:02: Refactor insight engine
 - 2025-05-31T09:03:02: Fix layout issues
 - 2025-06-06T11:03:02: Fix fonts
+- 2025-06-12T13:03:02: Improve styling
