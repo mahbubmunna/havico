@@ -26,3 +26,4 @@
 - 2025-06-18T15:03:02: Refactor insight engine
 - 2025-06-24T17:03:02: Prototype UI
 - 2025-06-30T19:03:02: Fix habit counters
+- 2025-07-06T21:03:02: Refactor navigation
