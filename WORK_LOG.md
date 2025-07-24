@@ -29,3 +29,4 @@
 - 2025-07-06T21:03:02: Refactor navigation
 - 2025-07-12T23:03:02: Fix habit counters
 - 2025-07-19T01:03:02: Prototype UI
+- 2025-07-25T03:03:02: Setup SQLite
