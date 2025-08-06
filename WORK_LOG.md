@@ -31,3 +31,4 @@
 - 2025-07-19T01:03:02: Prototype UI
 - 2025-07-25T03:03:02: Setup SQLite
 - 2025-07-31T05:03:02: Update types
+- 2025-08-06T07:03:02: Refactor hooks
