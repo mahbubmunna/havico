@@ -35,3 +35,4 @@
 - 2025-08-12T09:03:02: Fix habit counters
 - 2025-08-18T11:03:02: Update README
 - 2025-08-24T13:03:02: Add interaction feedback
+- 2025-08-30T15:03:02: Dark mode support
