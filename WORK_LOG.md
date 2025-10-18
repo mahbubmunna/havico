@@ -43,3 +43,4 @@
 - 2025-09-30T01:03:02: Improve styling
 - 2025-10-06T03:03:02: Setup project structure
 - 2025-10-12T05:03:02: Update types
+- 2025-10-18T07:03:02: Setup SQLite
