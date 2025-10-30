@@ -45,3 +45,4 @@
 - 2025-10-12T05:03:02: Update types
 - 2025-10-18T07:03:02: Setup SQLite
 - 2025-10-24T09:03:02: Dark mode support
+- 2025-10-30T11:03:02: Update README
