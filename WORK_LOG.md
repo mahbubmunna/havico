@@ -52,3 +52,4 @@
 - 2025-11-23T19:03:02: Refactor hooks
 - 2025-11-29T21:03:02: Refactor components
 - 2025-12-05T23:03:02: Fix mood persistence
+- 2025-12-12T01:03:02: Add mood constants
